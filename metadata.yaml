@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8461'
     url: http://www.gutenberg.org/2009/agents/8461
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19096#Indian-Legends-and-Other-Poems
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2006-08-21'
 gutenberg_type: Text
